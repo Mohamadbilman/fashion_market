@@ -19,7 +19,7 @@ class products_details extends StatelessWidget {
           return Scaffold(
               appBar: My_AppBar(),
               body: Center(
-                child: Text('${''}'),
+                child: Text('${'545'}'),
               ));
         },
         listener: (context, state) {});
